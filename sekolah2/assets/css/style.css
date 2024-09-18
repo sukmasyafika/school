@@ -1,0 +1,42 @@
+* {
+  font-family: 'Jost', sans-serif;
+}
+
+/* login */
+/* .login {
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+} */
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3);
+}
+
+.article-card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.article-card:hover {
+  transform: scale(1.05);
+}
+
+
+.social-media a {
+  color: #007bff;
+  font-size: 1.5rem;
+  margin: 0 15px;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+
+.social-media a:hover {
+  color: #0056b3;
+  transform: scale(1.1);
+}
