@@ -47,7 +47,7 @@
           </li>
         </ul>
         <ul class="navbar-nav mr-auto fs-5 shadow-sm">
-          <li class="nav-item fw-bold btn btn btn-outline-info">
+          <li class="nav-item fw-bold btn btn-sm btn-outline-info">
             <a class="nav-link" href="./pages/login.php">Login</a>
           </li>
         </ul>
